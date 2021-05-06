@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rtcom-messaging-ui 20100208121232\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.08 12:12+0200\n"
 "PO-Revision-Date: 2010.02.08 12:12+0200\n"
 "Last-Translator:\n"
