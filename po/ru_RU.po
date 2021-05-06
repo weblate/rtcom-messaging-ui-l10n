@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Чат-комната заполнена"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Контакт не в сети"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Отправлено %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Сообщение от пользователя %s слишком длинное, оно было сокращено"
+
+msgid "chat_ia_event_password_room"
+msgstr "Теперь чат-комната защищена паролем"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Описание комнаты изменено на: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Название комнаты изменено на: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "Пользователь %s изменил тему беседы в комнате на: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Не удается доставить сообщение. Контакт не в сети."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s - доступ запрещен"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s запретил доступ %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr ""
+"Не удается войти.\n"
+"Пользователь запрещен в чат-комнате."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr ""
+"Не удается войти.\n"
+"Чат-комната только по приглашениям."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Сбой при создании чат-комнаты"
+
+msgid "chat_ib_room_not_found"
+msgstr "Чат-комната не найдена"
+
+msgid "chat_ni_permission_denied"
+msgstr "Ошибка отправки сообщения"
+
+msgid "messaging_ap_conversations"
+msgstr "Сообщения"
+
+msgid "messaging_bd_chat"
+msgstr "Чат"
+
+msgid "messaging_bd_join"
+msgstr "Войти"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Новый чат"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Новое SMS"
+
+msgid "messaging_bd_send"
+msgstr "Отправка"
+
+msgid "messaging_csm_kick_out"
+msgstr "Исключить"
+
+msgid "messaging_fi_address"
+msgstr "Кому"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Доставка сообщений не гарантируется. Использовать другой канал?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Изображение аватара обновлено и отображается в новых сообщениях"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "НЕ В СЕТИ"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Чат-комнат не найдено"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(пока нет участия в чат-комнатах)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Имя"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Режим чата не поддерживается."
+
+msgid "messaging_fi_clear_message"
+msgstr "Очистить сообщение"
+
+msgid "messaging_fi_copy"
+msgstr "Копировать"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Сохранить визитную карточку"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Удалить сообщение?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Очистить все сообщения?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Удалить выбранное сообщение?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Удалить выбранные сообщения?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Очистить все сообщения?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Ошибка отправки"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Отложено"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Принимать сообщения о доставке SMS"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Доставлено"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr ""
+"Отключено.\n"
+"Не удается продолжить чат."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Теперь чат-комната невидима"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Теперь чат-комната доступна только по приглашениям"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Теперь чат-комната открыта"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Теперь чат-комната модерируемая"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Создана новая чат-комната"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Теперь чат-комната не модерируется"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s был удален"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s и %s находятся в чат-комнате"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Теперь защита паролем отключена"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Вам доступ запрещен."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Вы были удалены"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Теперь чат-комната видима"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Пример +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Переслать"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr ""
+"Ошибка отправки текстового сообщения. Недействительный номер центра "
+"сообщений. Задать номер?"
+
+msgid "messaging_fi_invisible"
+msgstr "Невидим:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Только по приглашениям:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Визитная карточка"
+
+msgid "messaging_fi_main_csm"
+msgstr "Открыть визит. карточку"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Нет сообщений"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Сообщения не отправлены. Отказано в разрешении."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr ""
+"Ошибка отправки текстового сообщения. Отсутствует номер центра сообщений. "
+"Задать номер?"
+
+msgid "messaging_fi_moderated"
+msgstr "Модерируемая:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Учетные записи"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "Кому"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Не разрешена отправка SMS на этот номер. Включен режим FDN."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d собеседников"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Нет участников"
+
+msgid "messaging_fi_password"
+msgstr "Пароль:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Защита паролем:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s присоединился"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X покинул беседу"
+
+msgid "messaging_fi_resend"
+msgstr "Отправить заново"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Повторная отправка SMS при подключении к сети"
+
+msgid "messaging_fi_room_address"
+msgstr "Адрес: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Имя:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Тема:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Ошибка отправки текстового сообщения для %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Текстовое сообщение доставлено %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s отсутствует в ваших контактах"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Введите сообщение"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Необходимо добавить получателя"
+
+msgid "messaging_fi_smsc"
+msgstr "Номер центра текстовых сообщений"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Неверный номер"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Добавить номер"
+
+msgid "messaging_fi_use_account"
+msgstr "Использовать учетную запись"
+
+msgid "messaging_fi_you"
+msgstr "Вы"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Пригласить"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Участники"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Параметры чат-комнаты"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Сохранить сообщение"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Исключить участников"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Покинуть"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Удалить"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Чат с"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Удалить сообщения"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Войти в чат-комнату"
+
+msgid "messaging_me_main_settings"
+msgstr "Параметры"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Удалить сообщения"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "Чат – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Тема чата"
+
+msgid "messaging_ti_chat_with"
+msgstr "Чат"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Приглашение в чат-комнату"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr ""
+"Вы приглашины в чат-комнату %s пользователем %s.\n"
+"Присоединиться к этой чат-комнате?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr ""
+"Вы приглашины в чат-комнату %s.\n"
+"Присоединиться к этой чат-комнате?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s участников"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Чат-комнаты – результаты поиска"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Чат-комната – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Чат-комната – последние"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Контакт не в сети"
+
+msgid "messaging_ti_flash_sms"
+msgstr ""
+"Текстовое сообщение - %s (%s):\n"
+"%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Участники"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Тема"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Выбрать сообщения"
+
+msgid "messaging_ti_new_mms"
+msgstr "Новое MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Невозможно получение или отправка новых сообщений."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Текстовое сообщение – отправлено"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Отправлено мной"
+
+msgid "messaging_ti_room_settings"
+msgstr "Параметры чат-комнаты"
+
+msgid "messaging_ti_search"
+msgstr "Поиск"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Выбрать чат-комнаты"
+
+msgid "messaging_ti_settings"
+msgstr "Параметры"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Тема смайлов"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Ваш номер телефона"
+
+msgid "messaging_va_smsc"
+msgstr "Использовать с SIM-карты"
+
+msgid "messaging_va_user_defined"
+msgstr "Определяется пользователем"

@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Chattrummet är fullt"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Kontakten är offline"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Skickat den %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Meddelandet från %s är för långt och har förkortats"
+
+msgid "chat_ia_event_password_room"
+msgstr "Chattrummet är nu lösenordsskyddat"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Rumsbeskrivningen har ändrats till: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Rumsnamnet har ändrats till: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s har ändrat rumsämnet till: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Det gick inte att leverera meddelandet. Kontakten är offline."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s är avstängd"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s stängde av %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr ""
+"Det går inte att gå in.\n"
+"Avstängd från chattrummet."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr ""
+"Det går inte att gå in.\n"
+"Endast inbjudna i chattrummet."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Det gick inte att skapa chattrummet"
+
+msgid "chat_ib_room_not_found"
+msgstr "Det gick inte att hitta chattrummet"
+
+msgid "chat_ni_permission_denied"
+msgstr "Det gick inte att skicka meddelandet"
+
+msgid "messaging_ap_conversations"
+msgstr "Konversationer"
+
+msgid "messaging_bd_chat"
+msgstr "Fortsätt"
+
+msgid "messaging_bd_join"
+msgstr "Gå med"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Nytt snabbmeddelande"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Nytt SMS"
+
+msgid "messaging_bd_send"
+msgstr "Skicka"
+
+msgid "messaging_csm_kick_out"
+msgstr "Kasta ut"
+
+msgid "messaging_fi_address"
+msgstr "Till"
+
+msgid "messaging_fi_changing_channel"
+msgstr ""
+"Det går inte att garantera att meddelandet levereras. Vill du använda en "
+"annan kanal?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Avatarbilden har uppdaterats och visas i nya meddelanden"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "OFFLINE"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Inga chattrum hittades"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(inga chattrum har anslutits än)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Namn"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Chatt stöds inte."
+
+msgid "messaging_fi_clear_message"
+msgstr "Rensa meddelande"
+
+msgid "messaging_fi_copy"
+msgstr "Kopiera"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Spara visitkort"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Vill du ta bort meddelande?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Vill du rensa alla meddelanden i konversationen?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Vill du ta bort vald konversation?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Vill du ta bort valda konversationer?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Vill du rensa alla meddelanden i konversationen?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Leverans misslyckades"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Väntande"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Leveransrapporter för textmeddelanden"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Levererat"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr ""
+"Nedkopplad.\n"
+"Det går inte att fortsätta chatta."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Chattrummet är nu osynligt"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Endast inbjudna i chattrummet"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Chattrummet är nu öppet för alla"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Chattrummet är nu modererat"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Ett nytt rum har skapats"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Chattrummet är inte längre modererat"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s har kastats ut"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s och %s är i chattrummet"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Lösenordsskyddet är nu inaktiverat"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Du är avstängd."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Du har kastats ut"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Chattrummet är nu synligt"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Exempel +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Vidarebefordra"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr ""
+"Det gick inte att skicka textmeddelandet. Ogiltigt meddelandecentralnummer."
+
+msgid "messaging_fi_invisible"
+msgstr "Osynlig:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Endast inbjudna:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Visitkort"
+
+msgid "messaging_fi_main_csm"
+msgstr "Öppna visitkort"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Inga konversationer"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Meddelandet har inte skickats. Tillstånd nekades."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr ""
+"Det gick inte att skicka textmeddelandet. Meddelandecentralnumret saknas."
+
+msgid "messaging_fi_moderated"
+msgstr "Modererat:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Konton"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "Till"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Skicka SMS till det här numret tillåts inte. FDN aktivt."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d chattare"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Inga deltagare"
+
+msgid "messaging_fi_password"
+msgstr "Lösenord:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Lösenordsskyddat:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s har anslutits"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X har lämnat"
+
+msgid "messaging_fi_resend"
+msgstr "Skicka igen"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Skickar om textmeddelande i uppkopplat läge"
+
+msgid "messaging_fi_room_address"
+msgstr "Mottagare: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Namn:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Ämne:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Det gick inte att leverera textmeddelandet till %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Textmeddelandet levererades till %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s är inte en av dina kontakter"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Skriv meddelande"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Lägg till mottagare"
+
+msgid "messaging_fi_smsc"
+msgstr "Nummer till textmeddelandecentral"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Ogiltigt nummer"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Lägg till nummer"
+
+msgid "messaging_fi_use_account"
+msgstr "Använd konto"
+
+msgid "messaging_fi_you"
+msgstr "Du"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Bjud in"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Deltagare"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Rumsinställningar"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Spara konversation"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Sparka ut deltagare"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Lämna"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Ta bort"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Skicka snabbmeddelande till"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Ta bort konversationer"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Gå med i chattrum"
+
+msgid "messaging_me_main_settings"
+msgstr "Inställningar"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Töm konversationer"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "Snabbmeddelande – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Tema för snabbmeddelanden"
+
+msgid "messaging_ti_chat_with"
+msgstr "Skicka snabbmeddelanden"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Inbjudan till chattrum"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr ""
+"Du har bjudits in till chattrum %s av %s.\n"
+"Vill du gå med i rummet?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr ""
+"Du har bjudits in till chattrum %s.\n"
+"Vill du gå med i rummet?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s deltagare"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Chattrum – sökresultat"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Chattrum – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Chattrum – senaste"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Kontakten är offline"
+
+msgid "messaging_ti_flash_sms"
+msgstr ""
+"Textmeddelande - %s (%s):\n"
+"%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Deltagare"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Ämne"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Välj konversationer"
+
+msgid "messaging_ti_new_mms"
+msgstr "Nytt MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Det gick inte att ta emot eller skicka nya meddelanden."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Textmeddelande – skickat"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Skickade av mig"
+
+msgid "messaging_ti_room_settings"
+msgstr "Rumsinställningar"
+
+msgid "messaging_ti_search"
+msgstr "Sök"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Välj chattrum"
+
+msgid "messaging_ti_settings"
+msgstr "Inställningar"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Tema för smileys"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Ditt telefonnummer"
+
+msgid "messaging_va_smsc"
+msgstr "Använd från SIM-kort"
+
+msgid "messaging_va_user_defined"
+msgstr "Användardefinierad"

@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Keskusteluryhmä on täynnä"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Henkilö offline-tilassa"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Lähetetty %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Viesti henkilöltä %s on liian pitkä ja sitä on lyhennetty"
+
+msgid "chat_ia_event_password_room"
+msgstr "Keskusteluryhmä on nyt suojattu salasanalla"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Ryhmän kuvaus muutettu muotoon: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Ryhmän nimi muutettu muotoon: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s muutti ryhmän aiheen muotoon: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Viestiä ei voi välittää. Henkilö on offline-tilassa."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s on karanteenissa"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s asetti henkilön %s karanteeniin"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr ""
+"Pääsy evätty.\n"
+"Keskusteluryhmä on asettanut eston."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr ""
+"Pääsy evätty.\n"
+"Keskusteluryhmään voi liittyä vain kutsuttuna."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Keskusteluryhmän luonti epäonnistui"
+
+msgid "chat_ib_room_not_found"
+msgstr "Keskusteluryhmää ei löytynyt"
+
+msgid "chat_ni_permission_denied"
+msgstr "Viestin lähetys epäonnistui"
+
+msgid "messaging_ap_conversations"
+msgstr "Keskustelut"
+
+msgid "messaging_bd_chat"
+msgstr "Pikaviestitä"
+
+msgid "messaging_bd_join"
+msgstr "Liity"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Uusi IM"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Uusi SMS"
+
+msgid "messaging_bd_send"
+msgstr "Lähetä"
+
+msgid "messaging_csm_kick_out"
+msgstr "Poista"
+
+msgid "messaging_fi_address"
+msgstr "Vast.ottaja"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Viestien lähetystä ei voida taata. Käytä jotakin muuta kanavaa?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Avatar-kuva päivitetty ja näytetään uusissa viesteissä"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "OFFLINE"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Keskusteluryhmiä ei löytynyt"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(ei vielä liitytty keskusteluryhmiin)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Nimi"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Pikaviestejä ei tueta."
+
+msgid "messaging_fi_clear_message"
+msgstr "Tyhjennä viesti"
+
+msgid "messaging_fi_copy"
+msgstr "Kopioi"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Tallenna käyntikortti"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Poistetaanko viesti?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Poistetaanko kaikki tämän keskustelun viestit?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Poistetaanko valittu keskustelu?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Poistetaanko valitut keskustelut?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Poistetaanko kaikki tämän keskustelun viestit?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Lähetys epäonnistui"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Odotetaan"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Vastaanota tekstiviestien toimitusraportit"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Toimitettu"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr ""
+"Yhteys katkaistu.\n"
+"Keskustelua ei voi jatkaa."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Keskusteluryhmä on nyt näkymätön"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Keskusteluryhmään voi liittyä vain kutsuttuna"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Keskusteluryhmä on nyt julkinen"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Keskusteluryhmä on nyt valvottu"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Uusi ryhmä perustettu"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Keskusteluryhmä ei ole juuri nyt valvottu"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s on poistettu"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s ja %s ovat keskusteluryhmässä"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Salasanasuojaus ei ole nyt käytössä"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Olet karanteenissa."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Sinut on poistettu"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Keskusteluryhmä on nyt näkyvä"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Esimerkki: +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Lähetä edelleen"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr ""
+"Tekstiviestin lähettäminen epäonnistui. Virheellinen viestikeskuksen numero. "
+"Määritetäänkö numero?"
+
+msgid "messaging_fi_invisible"
+msgstr "Näkymätön:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Vain kutsutut:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Käyntikortti"
+
+msgid "messaging_fi_main_csm"
+msgstr "Avaa käyntikortti"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Ei keskusteluja"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Viestejä ei lähetetty. Lupaa ei annettu."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr ""
+"Tekstiviestin lähettäminen epäonnistui. Viestikeskuksen numero puuttuu. "
+"Määritetäänkö numero?"
+
+msgid "messaging_fi_moderated"
+msgstr "Valvottu:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Tilit"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "Vast.ott."
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Tekstiviestien lähettämistä ei sallita tähän numeroon. FDN käytössä."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d keskustelijaa"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Ei osallistujia"
+
+msgid "messaging_fi_password"
+msgstr "Salasana:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Salasanasuojaus:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s on liittynyt"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X on poistunut"
+
+msgid "messaging_fi_resend"
+msgstr "Lähetä uudelleen"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Tekstiviesti lähetetään online-tilassa"
+
+msgid "messaging_fi_room_address"
+msgstr "Osoite: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Nimi:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Aihe:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Tekstiviestin lähettäminen epäonnistui: %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Tekstiviesti toimitettu: %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s ei ole yhteystiedoissa"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Kirjoita viesti"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Lisää vastaanottaja"
+
+msgid "messaging_fi_smsc"
+msgstr "Tekstiviestikeskuksen numero"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Virheellinen numero"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Lisää numero"
+
+msgid "messaging_fi_use_account"
+msgstr "Käytä tiliä"
+
+msgid "messaging_fi_you"
+msgstr "Sinä"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Kutsu"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Osallistujat"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Ryhmän asetukset"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Tallenna keskustelu"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Poista osallistujia"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Poistu"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Siirrä pois"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Pikaviestitä"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Poista keskusteluja"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Liity keskusteluryhmään"
+
+msgid "messaging_me_main_settings"
+msgstr "Asetukset"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Tyhjennä keskustelu"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "IM – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Pikaviestiteema"
+
+msgid "messaging_ti_chat_with"
+msgstr "Pikaviestitä"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Keskusteluryhmäkutsu"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr ""
+"%2$s on kutsunut sinut keskusteluryhmään %1$s.\n"
+"Liity ryhmään?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr ""
+"Sinut on kutsuttu keskusteluryhmään %s.\n"
+"Liity ryhmään?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s osallistujaa"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Keskusteluryhmät – hakutulokset"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Keskusteluryhmä – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Keskusteluryhmät – uusimmat"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Henkilö offline-tilassa"
+
+msgid "messaging_ti_flash_sms"
+msgstr ""
+"Tekstiviesti - %s (%s):\n"
+"%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Osallistujat"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Aihe"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Valitse keskustelut"
+
+msgid "messaging_ti_new_mms"
+msgstr "Uusi multimediaviesti"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Uusia viestejä ei voi vastaanottaa tai lähettää."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Tekstiviesti – lähetetty"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Itse lähetetty"
+
+msgid "messaging_ti_room_settings"
+msgstr "Ryhmän asetukset"
+
+msgid "messaging_ti_search"
+msgstr "Etsi"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Valitse keskusteluryhmät"
+
+msgid "messaging_ti_settings"
+msgstr "Asetukset"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Hymiöteema"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Puhelinnumerosi"
+
+msgid "messaging_va_smsc"
+msgstr "Käytä SIM-kortilta"
+
+msgid "messaging_va_user_defined"
+msgstr "Käyttäjän määrittämä"

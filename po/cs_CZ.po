@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Chatovací místnost je plná"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Kontakt off-line"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Odesláno %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Zpráva od %s je příliš dlouhá a byla zkrácena"
+
+msgid "chat_ia_event_password_room"
+msgstr "Chatovací místnost je nyní chráněna heslem"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Popis místnosti změněn na: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Název místnosti změněn na: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s změnil téma místnosti na: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Nelze doručit zprávu. Kontakt off-line."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s je zakázaný"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s zakázal %s "
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr ""
+"Nelze vstoupit.\n"
+"Zakázáno z chatovací místnosti."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr ""
+"Nelze vstoupit.\n"
+"Chatovací místnost jen pro pozvané."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Vytvoření chatovací místnosti se nezdařilo"
+
+msgid "chat_ib_room_not_found"
+msgstr "Chatovací místnost nenalezena"
+
+msgid "chat_ni_permission_denied"
+msgstr "Odeslání zprávy se nezdařilo"
+
+msgid "messaging_ap_conversations"
+msgstr "Konverzace"
+
+msgid "messaging_bd_chat"
+msgstr "Chat"
+
+msgid "messaging_bd_join"
+msgstr "Připojit se"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Nová zpráva IM"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Nová zpráva SMS"
+
+msgid "messaging_bd_send"
+msgstr "Odeslat"
+
+msgid "messaging_csm_kick_out"
+msgstr "Vykázat"
+
+msgid "messaging_fi_address"
+msgstr "Uživatel"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Nelze zaručit doručení zprávy. Použít jiný kanál?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Ikona byla aktualizována a bude zobrazena v nových zprávách"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "OFF-LINE"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Nenalezeny žádné chatovací místnosti"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(žádná chatovací místnost dosud nepřipojena)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Název"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Chatování není podporováno."
+
+msgid "messaging_fi_clear_message"
+msgstr "Vymazat zprávu"
+
+msgid "messaging_fi_copy"
+msgstr "Kopírovat"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Uložit vizitku"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Odstranit zprávu?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Odstranit všechny zprávy v této konverzaci?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Odstranit vybranou konverzaci?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Odstranit vybrané konverzace?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Odstranit všechny zprávy v této konverzaci?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Doručení se nezdařilo"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Čekání"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Přijímat zprávy o doručení zpráv SMS"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Doručena"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr ""
+"Odpojeno.\n"
+"Nelze pokračovat v chatu."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Chatovací místnost je nyní neviditelná"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Chatovací místnost je nyní jen pro pozvané"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Chatovací místnost je nyní veřejná"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Chatovací místnost je nyní moderovaná"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Vytvořena nová místnost"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Chatovací místnost nyní není moderovaná"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s byl vykázán"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s a %s jsou v chatovací místnosti"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Ochrana heslem je nyní vypnutá"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Jste zakázán."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Byl jste vykázán"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Chatovací místnost je nyní viditelná"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Příklad +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Přeposlat"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr ""
+"Odeslání zprávy SMS se nezdařilo. Neplatné číslo střediska textových zpráv. "
+"Nastavit číslo?"
+
+msgid "messaging_fi_invisible"
+msgstr "Neviditelná:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Pouze pro pozvané:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Vizitka"
+
+msgid "messaging_fi_main_csm"
+msgstr "Otevřít kartu kontaktu"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Žádné konverzace"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Zprávy neodeslány. Povolení odmítnuto."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr ""
+"Odeslání zprávy SMS se nezdařilo. Chybí číslo střediska textových zpráv. "
+"Nastavit číslo?"
+
+msgid "messaging_fi_moderated"
+msgstr "Moderovaná:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Účty"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "Komu"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Odesílání zpráv SMS na toto číslo není povoleno. Režim FDN je aktivní."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d chatujících"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Žádní účastníci"
+
+msgid "messaging_fi_password"
+msgstr "Heslo:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Ochrana heslem:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s se připojil"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X odešel"
+
+msgid "messaging_fi_resend"
+msgstr "Odeslat znovu"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Opakované odeslání zprávy SMS v režimu online"
+
+msgid "messaging_fi_room_address"
+msgstr "Adresa: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Název:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Téma:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Odeslání zprávy SMS pro %s se nezdařilo"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Zpráva SMS doručena: %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s není jedním z vašich kontaktů"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Tělo zprávy je prázdné"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Zadejte alespoň jednoho příjemce"
+
+msgid "messaging_fi_smsc"
+msgstr "Číslo střediska zpráv SMS"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Neplatné číslo"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Nebylo zadáno číslo střediska zpráv"
+
+msgid "messaging_fi_use_account"
+msgstr "Použít účet"
+
+msgid "messaging_fi_you"
+msgstr "Vy"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Pozvat"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Účastníci"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Nastavení místnosti"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Uložit konverzaci"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Vykázat účastníky"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Odejít"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Odstranit"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Zahájit chat"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Odstranit konverzace"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Připojit se k chat. místnosti"
+
+msgid "messaging_me_main_settings"
+msgstr "Nastavení SMS"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Vymazat konverzaci"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "Chat – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Motiv Chat"
+
+msgid "messaging_ti_chat_with"
+msgstr "Zahájit chat"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Pozvání do chatovací místnosti"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr ""
+"Byli jste pozváni do chatovací místnosti %s uživatelem %s.\n"
+"Vstoupit do této místnosti?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr ""
+"Byli jste pozváni do chatovací místnosti %s.\n"
+"Vstoupit do této místnosti?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s účastníků"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Chatovací místnosti – výsledky hledání"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Chatovací místnost – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Chatovací místnosti – nejnovější"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Kontakt off-line"
+
+msgid "messaging_ti_flash_sms"
+msgstr ""
+"Zpráva SMS – %s (%s):\n"
+"%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Účastníci"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Téma"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Vyberte konverzace"
+
+msgid "messaging_ti_new_mms"
+msgstr "Nová zpráva MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Nelze přijmout nebo odeslat nové zprávy."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Zpráva SMS – odeslaná"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Mnou odeslaná"
+
+msgid "messaging_ti_room_settings"
+msgstr "Nastavení místnosti"
+
+msgid "messaging_ti_search"
+msgstr "Hledat"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Vybrat chatovací místnosti"
+
+msgid "messaging_ti_settings"
+msgstr "Nastavení SMS"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Motiv Smajlíci"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Vaše telefonní číslo"
+
+msgid "messaging_va_smsc"
+msgstr "Použít ze SIM karty"
+
+msgid "messaging_va_user_defined"
+msgstr "Uživatelem definováno"

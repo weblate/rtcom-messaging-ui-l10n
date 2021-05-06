@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "La sala de chat está llena"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Contacto sin conexión"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Enviados el %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "El mensaje de %s es demasiado largo y se ha abreviado"
+
+msgid "chat_ia_event_password_room"
+msgstr "La sala de chat está protegida con contraseña ahora"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "La descripción de la sala se ha cambiado a: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "El nombre de la sala se ha cambiado a: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s ha cambiado el tema de la sala a: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Imposible entregar mensaje. Contacto sin conexión."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s está prohibido"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s prohibió a %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr ""
+"Imposible acceder.\n"
+"Acceso prohibido a la sala de chat."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr ""
+"Imposible acceder.\n"
+"La sala de chat es de sólo invitación."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Fallo de creación de sala de chat"
+
+msgid "chat_ib_room_not_found"
+msgstr "Sala de chat no encontrada"
+
+msgid "chat_ni_permission_denied"
+msgstr "Error al enviar el mensaje"
+
+msgid "messaging_ap_conversations"
+msgstr "Conversaciones"
+
+msgid "messaging_bd_chat"
+msgstr "Chat"
+
+msgid "messaging_bd_join"
+msgstr "Unirse"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Nuevo mensaje instantáneo"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Nuevo SMS"
+
+msgid "messaging_bd_send"
+msgstr "Enviar"
+
+msgid "messaging_csm_kick_out"
+msgstr "Expulsar"
+
+msgid "messaging_fi_address"
+msgstr "A"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Imposible garantizar la entrega de los mensajes. ¿Utilizar otro canal?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Imagen de avatar actualizada; se mostrará en los mensajes nuevos"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "SIN CONEXIÓN"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "No se han encontrado salas de chat"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(todavía no se ha unido a ninguna sala de chat)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Nombre"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Actividad de chat no admitida."
+
+msgid "messaging_fi_clear_message"
+msgstr "Borrar mensaje"
+
+msgid "messaging_fi_copy"
+msgstr "Copiar"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Guardar tarjeta de contacto"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "¿Suprimir mensaje?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "¿Borrar todos los mensajes de esta conversación?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "¿Suprimir conversación seleccionada?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "¿Suprimir conversaciones seleccionadas?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "¿Borrar todos los mensajes de esta conversación?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Error de entrega"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Pendiente"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Recibir informes de entrega de msj. texto"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Entregado"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr ""
+"Desconectado.\n"
+"Imposible continuar chat."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "La sala de chat no está visible ahora"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "La sala de chat es de sólo invitación ahora"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "La sala de chat es pública ahora"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "La sala de chat tiene moderador ahora"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Se ha creado una nueva sala"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "La sala de chat no tiene moderador ahora"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s ha sido expulsado"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s y %s se encuentran en la sala de chat"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "La protección de contraseña está desactivada ahora"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Tiene el acceso prohibido."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Ha sido expulsado"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "La sala de chat está visible ahora"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Ejemplo +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Reenviar"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr ""
+"Error de envío de mensaje de texto. Número del centro de mensajes no válido. "
+"¿Configurar número?"
+
+msgid "messaging_fi_invisible"
+msgstr "Invisible:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Sólo invitación:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Tarjeta de contacto"
+
+msgid "messaging_fi_main_csm"
+msgstr "Abrir tarjeta de contacto"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "No hay conversaciones"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Mensaje no enviado. Permiso denegado."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr ""
+"Error de envío de mensaje de texto. Falta el número del centro de mensajes. "
+"¿Configurar número?"
+
+msgid "messaging_fi_moderated"
+msgstr "Con moderador:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Mis cuentas"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "Para"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr ""
+"No está permitido el envío de SMS a este número. Lista de marcación fija "
+"activa."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d charlas"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Sin participantes"
+
+msgid "messaging_fi_password"
+msgstr "Contraseña:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Protegido con contraseña:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s se ha unido"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X ha abandonado"
+
+msgid "messaging_fi_resend"
+msgstr "Volver a enviar"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "El mensaje de texto se volverá a enviar cuando esté en línea"
+
+msgid "messaging_fi_room_address"
+msgstr "Dirección: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Nombre:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Tema:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Error de entrega de mensaje de texto para %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Mensaje de texto entregado a %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s no es uno de sus contactos"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Escribir mensaje"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Agregar destinatario"
+
+msgid "messaging_fi_smsc"
+msgstr "Número del centro de mensajes de texto"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Número no válido"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Agregar número"
+
+msgid "messaging_fi_use_account"
+msgstr "Utilizar cuenta"
+
+msgid "messaging_fi_you"
+msgstr "Usted"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Invitar"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Participantes"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Ajustes de sala"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Guardar conversación"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Expulsar participantes"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Abandonar"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Eliminar"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Chatear con"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Suprimir conversaciones"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Unirse a una sala de chat"
+
+msgid "messaging_me_main_settings"
+msgstr "Ajustes"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Borrar conversación"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "Chat – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Tema del chat"
+
+msgid "messaging_ti_chat_with"
+msgstr "Enviar mensaje instantáneo"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Invitación a sala de chat"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr ""
+"%s le ha invitado a la sala de chat %s.\n"
+"¿Desea unirse a esta sala?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr ""
+"Ha sido invitado a la sala de chat %s.\n"
+"¿Desea unirse a esta sala?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s participantes"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Salas de chat – buscar resultados"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Sala de chat – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Salas de chat – recientes"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Contacto sin conexión"
+
+msgid "messaging_ti_flash_sms"
+msgstr ""
+"Mensaje de texto: %s (%s):\n"
+"%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Participantes"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Tema"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Seleccionar conversaciones"
+
+msgid "messaging_ti_new_mms"
+msgstr "Nuevo MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Imposible enviar o recibir nuevos mensajes."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Mensaje de texto – enviado"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Enviado por mí"
+
+msgid "messaging_ti_room_settings"
+msgstr "Ajustes de sala"
+
+msgid "messaging_ti_search"
+msgstr "Buscar"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Seleccionar salas de chat"
+
+msgid "messaging_ti_settings"
+msgstr "Ajustes"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Tema de los emoticonos"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Su número de teléfono"
+
+msgid "messaging_va_smsc"
+msgstr "Utilizar desde tarjeta SIM"
+
+msgid "messaging_va_user_defined"
+msgstr "Definido por el usuario"

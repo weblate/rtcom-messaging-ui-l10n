@@ -1,0 +1,119 @@
+Source: rtcom-messaging-ui-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: rtcom-messaging-ui-l10n-mr0
+Section: misc
+Architecture: all
+Provides: rtcom-messaging-ui-l10n-mr
+Depends: rtcom-messaging-ui-l10n-ruru, rtcom-messaging-ui-l10n-frfr, rtcom-messaging-ui-l10n-frca, rtcom-messaging-ui-l10n-dadk, rtcom-messaging-ui-l10n-itit, rtcom-messaging-ui-l10n-svse, rtcom-messaging-ui-l10n-nono, rtcom-messaging-ui-l10n-fifi, rtcom-messaging-ui-l10n-nlnl, rtcom-messaging-ui-l10n-enus, rtcom-messaging-ui-l10n-dede, rtcom-messaging-ui-l10n-esmx, rtcom-messaging-ui-l10n-eses, rtcom-messaging-ui-l10n-cscz, rtcom-messaging-ui-l10n-ptpt, rtcom-messaging-ui-l10n-engb, rtcom-messaging-ui-l10n-plpl
+Description: rtcom-messaging-ui marketing release package
+ This is a metapackage for rtcom-messaging-ui to pull all the l10n packages.
+ Application developers of rtcom-messaging-ui should depend on
+ "rtcom-messaging-ui-l10n-mr0 | rtcom-messaging-ui-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: rtcom-messaging-ui-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (cs_CZ)
+ Language files for cs_CZ rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (da_DK)
+ Language files for da_DK rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (de_DE)
+ Language files for de_DE rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (en_GB)
+ Language files for en_GB rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (en_US)
+ Language files for en_US rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (es_ES)
+ Language files for es_ES rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (es_MX)
+ Language files for es_MX rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (fi_FI)
+ Language files for fi_FI rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (fr_CA)
+ Language files for fr_CA rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (fr_FR)
+ Language files for fr_FR rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (it_IT)
+ Language files for it_IT rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (nl_NL)
+ Language files for nl_NL rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (no_NO)
+ Language files for no_NO rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (pl_PL)
+ Language files for pl_PL rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (pt_PT)
+ Language files for pt_PT rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (ru_RU)
+ Language files for ru_RU rtcom-messaging-ui.
+
+Package: rtcom-messaging-ui-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for rtcom-messaging-ui (sv_SE)
+ Language files for sv_SE rtcom-messaging-ui.

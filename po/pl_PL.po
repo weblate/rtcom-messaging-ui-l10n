@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Czat jest pełny"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Kontakt niepodłączony"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Wysłano: %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Wiadomość od %s jest zbyt długa i została skrócona"
+
+msgid "chat_ia_event_password_room"
+msgstr "Czat jest teraz chroniony hasłem"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Opis czatu zmieniony na: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Nazwa czatu zmieniona na: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "Użytkownik %s zmienił temat czatu na: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Nie można dostarczyć wiadomości. Kontakt niepodłączony."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "Zakaz dostępu dla: %s"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "Użytkownik %s wprowadził zakaz dostępu dla: %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr ""
+"Nie można dołączyć.\n"
+"Zakaz dostępu do czatu."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr ""
+"Nie można dołączyć.\n"
+"Dostęp tylko z zaproszeniem."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Utworzenie czatu nie powiodło się"
+
+msgid "chat_ib_room_not_found"
+msgstr "Nie znaleziono czatu"
+
+msgid "chat_ni_permission_denied"
+msgstr "Wysyłanie wiadomości nie powiodło się"
+
+msgid "messaging_ap_conversations"
+msgstr "Rozmowy"
+
+msgid "messaging_bd_chat"
+msgstr "Czat"
+
+msgid "messaging_bd_join"
+msgstr "Dołącz"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Nowa wiadomość IM"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Nowa wiad. SMS"
+
+msgid "messaging_bd_send"
+msgstr "Wyślij"
+
+msgid "messaging_csm_kick_out"
+msgstr "Usunięcie"
+
+msgid "messaging_fi_address"
+msgstr "Do"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Nie można zapewnić dostarczenia wiadomości. Wybrać inny kanał?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Awatar zaktualizowany i wyświetlany w nowych wiadomościach"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "ODŁĄCZONY"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Nie znaleziono żadnych czatów"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(nie dołączono jeszcze do żadnego czatu)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Nazwa"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Funkcja czatu nieobsługiwana."
+
+msgid "messaging_fi_clear_message"
+msgstr "Usuń treść wiadomości"
+
+msgid "messaging_fi_copy"
+msgstr "Kopiuj"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Zapisz wizytówkę kontaktu"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Usunąć wiadomość?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Usunąć wszystkie wiadomości z tej rozmowy?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Usunąć wybraną rozmowę?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Usunąć wybrane rozmowy?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Usunąć wszystkie wiadomości z tej rozmowy?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Nie dostarczono"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Oczekiwanie na odbiór"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Odbiór raportów dostarczenia wiadomości SMS"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Dostarczono"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr ""
+"Rozłączono.\n"
+"Nie można kontynuować czatu."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Czat jest teraz niewidoczny"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Czat jest teraz dostępny po uzyskaniu zaproszenia"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Czat jest teraz ogólnodostępny"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Czat jest teraz moderowany"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Utworzono nowy czat"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Czat nie jest teraz moderowany"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "Usunięto użytkownika %s"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "Dostępni na czacie: %s, %s i %s"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Ochrona hasłem jest teraz wyłączona"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Masz zakaz dostępu."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Zostałeś usunięty z czatu"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Czat jest teraz widoczny"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Przykład: +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Przekaż"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr ""
+"Błąd wysyłania wiadomości SMS. Nieprawidłowy numer centrum wiadomości. "
+"Ustawić numer?"
+
+msgid "messaging_fi_invisible"
+msgstr "Niewidoczne:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Tylko po uzyskaniu zaproszenia:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Wizytówka kontaktu"
+
+msgid "messaging_fi_main_csm"
+msgstr "Otwórz kartę kontaktu"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Brak rozmów"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Nie wysłano wiadomości. Brak uprawnień."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr ""
+"Błąd wysyłania wiadomości SMS. Brak numeru centrum wiadomości. Ustawić numer?"
+
+msgid "messaging_fi_moderated"
+msgstr "Moderowane:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Konta"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "Do"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr ""
+"Wysyłanie wiadomości SMS na ten numer niedozwolone. Włączona funkcja WU."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d rozmówców"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Brak uczestników"
+
+msgid "messaging_fi_password"
+msgstr "Hasło:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Ochrona hasłem:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "Dołączył użytkownik %s"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "Czat opuścił użytkownik X"
+
+msgid "messaging_fi_resend"
+msgstr "Prześlij ponownie"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Ponowne wysyłanie wiadomości SMS w trybie online"
+
+msgid "messaging_fi_room_address"
+msgstr "Adres: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Nazwa:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Temat:"
+
+msgid "messaging_fi_sms"
+msgstr "Wiad. SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Nie dostarczono wiadomości SMS do: %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Dostarczono wiad. SMS do: %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s nie figuruje na liście Twoich kontaktów"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Napisz wiadomość"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Dodaj odbiorcę"
+
+msgid "messaging_fi_smsc"
+msgstr "Numer centrum wiadomości SMS"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Nieprawidłowy numer"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Dodaj numer"
+
+msgid "messaging_fi_use_account"
+msgstr "Użyj konta"
+
+msgid "messaging_fi_you"
+msgstr "Ty"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Zaproś"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Uczestnicy"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Ustawienia czatów"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Zapisz rozmowę"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Usuń uczestników"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Wyjdź"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Usuń"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Wyślij wiadomość IM do"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Usuń rozmowy"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Dołącz do czatu"
+
+msgid "messaging_me_main_settings"
+msgstr "Ustawienia"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Wyczyść rozmowę"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "IM – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Motyw czatu"
+
+msgid "messaging_ti_chat_with"
+msgstr "Wyślij wiadomość"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Zaproszenie na czat"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr ""
+"Zostałeś zaproszony na czat %s przez %s.\n"
+"Czy chcesz dołączyć do czatu?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr ""
+"Zostałeś zaproszony na czat %s.\n"
+"Czy chcesz dołączyć do czatu?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s uczestników"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Czaty – wyniki wyszukiwania"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Czat – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Czaty – najnowsze"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Kontakt niepodłączony"
+
+msgid "messaging_ti_flash_sms"
+msgstr ""
+"Wiad. SMS – %s (%s):\n"
+"%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Uczestnicy"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Temat"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Wybierz rozmowy"
+
+msgid "messaging_ti_new_mms"
+msgstr "Nowa wiadomość MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Nie można odebrać lub wysłać nowych wiadomości."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Wiad. SMS – wysłana"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Wysłana przeze mnie"
+
+msgid "messaging_ti_room_settings"
+msgstr "Ustawienia czatów"
+
+msgid "messaging_ti_search"
+msgstr "Szukaj"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Wybierz czaty"
+
+msgid "messaging_ti_settings"
+msgstr "Ustawienia"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Motyw Smileys"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Twój numer telefonu"
+
+msgid "messaging_va_smsc"
+msgstr "Użyj z karty SIM"
+
+msgid "messaging_va_user_defined"
+msgstr "Użyj ustawień użytkownika"
