@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20090810095028\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2010-04-28 00:30+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "غرفة المحادثه ممتلئه"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "المتصل غير موجود"
+
+msgid "chat_ia_event_message_sent"
+msgstr "الأرسال إلى %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "الرسالة من %s طويله ولقد تم تقصيرها"
+
+msgid "chat_ia_event_password_room"
+msgstr "غرفة المحادثة محمية بكلمة سر"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "وصف الغرفة قد تغير إلى: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "أسم الغرفه قد تغير إلى: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s عنوان الغرفة قد تغير إلى: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "غير قادر على إيصال الرسالة. المتصل غير موجود."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s محجوبه"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s حجبت %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr ""
+"غير قادر على الدخول.\n"
+"محجوب من غرفة المحادثة."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr ""
+"غير قادر على الدخولr.\n"
+"غرفة المحادثة للمدعوين-فقط."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "فشل بأنشاء غرفة المحادثة"
+
+msgid "chat_ib_room_not_found"
+msgstr "غرفة المحادثة غير موجوده"
+
+msgid "chat_ni_permission_denied"
+msgstr "فشل بأرسال الرسالة"
+
+msgid "messaging_ap_conversations"
+msgstr "المحادثات"
+
+msgid "messaging_bd_chat"
+msgstr "تابع"
+
+msgid "messaging_bd_join"
+msgstr "أنضم"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "محادثة جديدة"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "رسالة جديدة"
+
+msgid "messaging_bd_send"
+msgstr "ارسال"
+
+msgid "messaging_csm_kick_out"
+msgstr "تم الطرد"
+
+msgid "messaging_fi_address"
+msgstr "إلى"
+
+msgid "messaging_fi_changing_channel"
+msgstr "غير قادر على ضمان الرسالة وسوف يتم التسليم. أستخدم منفذ آخر؟"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "تم تحديث الصورة الرمزية وسوف تظهر في الرسالة الجديدة"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "لايوجد غرف محادثة"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(لايوجد غرف محادثه منضم إليها)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "غرفه:"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "المحادثه غير مدعومة."
+
+msgid "messaging_fi_clear_message"
+msgstr "مسح الرسائل"
+
+msgid "messaging_fi_copy"
+msgstr "نسخ"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "حفط البطاقة الشخصية"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "مسح الرسالة?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "مسح جميع المحادثات؟"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "مسح المحادثة الحالية؟"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "مسح المحادثات الحالية؟"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "مسح جميع الرسائل في المحادثة الحالية؟"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "فشل التسليم"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "قيد التسليم"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "استلام تقارير تسليم الرسائل القصيرة"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "تم التسليم"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr ""
+"قطع الأتصال.\n"
+"غير قادر على أستمرار المحادثة."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "تم أخفاء غرفة المحادثة"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "غرفة المحادثة مخفية فقط"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "غرفة المحادثة مرئية للجميع"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "تم الأشراف على غرفة المحادثة"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "أنشاء غرفة جديدة"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "غرفة المحادثة لايوجد بها مشرفين"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s لقد تم طرده"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s و %s وهو في غرفة المحادثة"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "تم ألغاء كلمة رمز الحماية"
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "لقد تم طرده"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "غرفة المحادثة مرئية للجميع"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "مثال +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "إعادة أرسال"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr "غير قادر على أرسال الرسالة. رقم مركز الرسائل خاطئ. أضبط الرقم؟"
+
+msgid "messaging_fi_invisible"
+msgstr "مرئية:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "مرئية فقط:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "بطاقة المتصل"
+
+msgid "messaging_fi_main_csm"
+msgstr "فتح بطاقة المتصل"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "لاتوجد محادثات"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "الرسائل لم ترسل. الترخيص مرفوض."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr "فشل بأرسال الرسالة القصيرة. رقم مركز الرسائل ناقص. أضبط الرقم؟"
+
+msgid "messaging_fi_moderated"
+msgstr "تحت الأشرف:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "الحسابات"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "إلى"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "أرسال الرسالة غير مسموح به لهذا الرقم. FDN مفعل."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d chatters"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "لايوجد مشتركين"
+
+msgid "messaging_fi_password"
+msgstr "كلمة السر:"
+
+msgid "messaging_fi_password_protected"
+msgstr "محمية بكلمة سر:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s تم الأنضمام"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X غارد"
+
+msgid "messaging_fi_resend"
+msgstr "إعادة أرسال"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "إعادة أرسال الرسالة في حالة الأتصال"
+
+msgid "messaging_fi_room_address"
+msgstr "العنوان: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "الأسم:"
+
+msgid "messaging_fi_room_topic"
+msgstr "الموضوع:"
+
+msgid "messaging_fi_sms"
+msgstr "الرسالة القصير"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "فشل بأرسال الرسالة القصير إلى %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "تم أرسال الرسالة القصير إلى %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s غير موجود بالأسماء المتوفر لديك"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "كتابة رسالة"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "أضافة مستلم"
+
+msgid "messaging_fi_smsc"
+msgstr "مركز خدمة الرسائل القصيرة"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "الرقم غير صحيح"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "أضافة رقم"
+
+msgid "messaging_fi_use_account"
+msgstr "أستخدام حساب"
+
+msgid "messaging_fi_you"
+msgstr "أنت"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "دعوة"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "المشاركون"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "إعدادات الغرفة"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "حفظ المحادثة"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "طرد المشاركين"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "غادره"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "مسح"
+
+msgid "messaging_me_main_chat_with"
+msgstr "أرسال IM إلى"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "مسح المحادثات"
+
+msgid "messaging_me_main_settings"
+msgstr "إعدادات"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "مسح المحادثات"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "IM – %s"
+
+msgid "messaging_ti_chat_with"
+msgstr "أرسال IM"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s المشاركون"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "غرفة المحادثة – نتائج البحث"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "غرفة المحادثة – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "غرف المحادثه – الأخيره"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "المتصل غير موجود"
+
+msgid "messaging_ti_flash_sms"
+msgstr ""
+"الرسالة القصيرة - %s (%s):\n"
+"%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "المشاركون"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "عنوان"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "أختر محادثة"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "غير قادر على أستقبال أو أرسال رسالة جديدة."
+
+msgid "messaging_ti_one_sms"
+msgstr "رسالة قصيرة: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "الرسالة القصيرة – أرسلت"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "أرسلت من قبلي"
+
+msgid "messaging_ti_room_settings"
+msgstr "إعدادت الغرفة"
+
+msgid "messaging_ti_search"
+msgstr "بحث"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "أختر غرفة المحادثة"
+
+msgid "messaging_ti_settings"
+msgstr "إعدادات"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "رسالة قصيرة – %s"
+
+msgid "messaging_va_smsc"
+msgstr "SIM أستخدام من كرت"
+
+msgid "messaging_va_user_defined"
+msgstr "تعريف المستخدم"
+
