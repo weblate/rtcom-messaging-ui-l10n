@@ -1,0 +1,414 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2012-05-26 17:39+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Чат перапоўнены"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Кантакт офлайн"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Даслана да %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Паведамленне ад %s занадта вялікае і было скарочанае"
+
+msgid "chat_ia_event_password_room"
+msgstr "Чат абаронены паролем"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Апісанне пакоя змянілась на: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Назва пакоя змянілась на: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s змяніў тэму пакоя на: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Немагчыма даслаць паведамленне. Кантакт офлайн."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s заблакаваны"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s заблакаваў %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr "Немагчыма ўвасці.\nВы заблакаваныя для гэтага пакою."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr "Немагчыма ўвайсці.\nЧат толькі па запрашэннях."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Стварэнне пакоя чата не ўдалося"
+
+msgid "chat_ib_room_not_found"
+msgstr "Пакой чата не знойдзены"
+
+msgid "chat_ni_permission_denied"
+msgstr "Памылка дасылання паведамлення"
+
+msgid "messaging_ap_conversations"
+msgstr "Канферэнцыі"
+
+msgid "messaging_bd_chat"
+msgstr "Працягнуць"
+
+msgid "messaging_bd_join"
+msgstr "Далучыцца"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Новы чат"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Новае SMS"
+
+msgid "messaging_bd_send"
+msgstr "Даслаць"
+
+msgid "messaging_csm_kick_out"
+msgstr "Выгнаць"
+
+msgid "messaging_fi_address"
+msgstr "Да"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Немагчыма гарантаваць, што паведамленне будзе дастаўлена. Выкарыстоўваць іншы канал?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Аватар абноўлены і паказаны ў новых паведамленнях"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "ОФЛАЙН"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Не знойдзена пакояў чата"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(няма далучаных пакояў чата)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Пакой:"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Чаццінг не падтрымліваецца."
+
+msgid "messaging_fi_clear_message"
+msgstr "Ачысціць паведамленне"
+
+msgid "messaging_fi_copy"
+msgstr "Капіраваць"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Захаваць візітную картку кантакта"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Выдаліць паведамленне?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Выдаліць усе паведамленні ў канферэнцыі?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Выдаліць абраную канферэнцыю?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Выдаліць абраныя канферэнцыі?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Выдаліць усе паведамленні ў канферэнцыі?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Памылка дастаўкі"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "У чаканні"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Атрыманне справаздач дастаўкі паведамленняў"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Дастаўлена"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr "Адключаны.\nНемагчыма працягнуць чат."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Чат зараз нябачны"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Чат зараз толькі па запрашэннях"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Чат зараз публічны"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Чат зараз мадэруецца"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Створаны новы пакой"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Чат зараз не мадэруецца"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s быў выгнаны"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s і %s зараз у чаце"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Цяпер чат не ахоўваецца паролем"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Вы заблакаваныя."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Вас выгналі"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Чат зараз бачны"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Прыклад +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Уперад"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr "Дасыланне тэкставага паведамлення не атрымалася. Няправільны нумар цэнтра паведамленняў. Усталяваць нумар?"
+
+msgid "messaging_fi_invisible"
+msgstr "Нябачны:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Толькі па запрашэннях:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Візітная картка"
+
+msgid "messaging_fi_main_csm"
+msgstr "Адчыніць візітную картку"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Няма канферэнцый"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Паведамленне не дасланае. Доступ забаронены."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr "Дасыланне тэкставага паведамлення не атрымалася. Няма нумара цэнтра паведамленняў. Усталяваць нумар?"
+
+msgid "messaging_fi_moderated"
+msgstr "Мадэруецца:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Рахункі"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "Да"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Адпраўка SMS не дазволеная для гэтага нумару. FDN актыўны."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d субяседнікаў"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Няма ўдзельнікаў"
+
+msgid "messaging_fi_password"
+msgstr "Пароль:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Абаронена паролем:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s далучыўся"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X выйшаў"
+
+msgid "messaging_fi_resend"
+msgstr "Пераслаць"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Перасыланне SMS у рэжыме анлайн."
+
+msgid "messaging_fi_room_address"
+msgstr "Адрас: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Імя:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Тэма:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Адпраўка тэкставага паведамлення не ўдалася для: %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Тэкставае паведамленне дасланае да %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s не ў вашых кантактах"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Напішыце паведамленне"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Дадайце атрымальніка"
+
+msgid "messaging_fi_smsc"
+msgstr "Цэнтар нумароў SMS"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Няправільны номер"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Дадаць номер"
+
+msgid "messaging_fi_use_account"
+msgstr "Выкарыстоўваць рахунак"
+
+msgid "messaging_fi_you"
+msgstr "Вы"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Запрасіць"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Удзельнікі"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Налады пакоя"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Захаваць канферэнцыю"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Выгнаць удзельнікаў"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Пакінуць"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Выдаліць"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Даслаць IM да"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Выдаліць канферэнцыі"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Далучыцца да чата"
+
+msgid "messaging_me_main_settings"
+msgstr "Налады"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Ачысціць канферэнцыю"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "IM – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Тэма IM"
+
+msgid "messaging_ti_chat_with"
+msgstr "Даслаць IM"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Запрашэнне ў чат"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr "Вы былі запрошаныя ў чат %s %s.\nДалучыцца да гэтага пакою?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr "Вы былі запрошаныя ў чат %s.\nДалучыцца да гэтага пакою?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s удзельнікаў"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Пакоі чата – вынікі пошуку"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Пакой чата –  %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Пакой чата – апошні"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Кантакт офлайн"
+
+msgid "messaging_ti_flash_sms"
+msgstr "Тэкставае паведамленне – %s (%s):\n%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Удзельнікі"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Тэма"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Выбраць канферэнцыі"
+
+msgid "messaging_ti_new_mms"
+msgstr "Новае MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Немагчыма атрымліваць ці дасылаць новыя паведамленні."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Тэкставае паведамленне – даслана"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Даслана мною"
+
+msgid "messaging_ti_room_settings"
+msgstr "Налады пакоя"
+
+msgid "messaging_ti_search"
+msgstr "Шукаць"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Выбраць пакоі чата"
+
+msgid "messaging_ti_settings"
+msgstr "Налады"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Тэмы смайлікаў"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Ваш нумар тэлефона"
+
+msgid "messaging_va_smsc"
+msgstr "Выкарыстоўваць з SIM"
+
+msgid "messaging_va_user_defined"
+msgstr "Вызначана карыстальнікам"
