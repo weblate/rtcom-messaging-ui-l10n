@@ -1,0 +1,414 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2010-11-30 11:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Стаята за разговори е пълна"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Контакта не е на линия"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Изпратено на %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Съобщението от %s е твърде дълго и беше съкратено"
+
+msgid "chat_ia_event_password_room"
+msgstr "Стаята за разговори е вече защитена с парола"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Описанието на стаята е сменено: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Името на стаята е променено на: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s смени темата на стаята на: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Съобщението не може да бъде доставено. Контакът не е на линия."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s е блокиран"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s блокира %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr "Невъзможен вход.\nБлокирани сте от стаята за разговори."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr "Невъзможен вход.\nСтаята за разговори е само с покани."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Неуспешно създаване на стая за разговори"
+
+msgid "chat_ib_room_not_found"
+msgstr "Стаята за разговори не е открита"
+
+msgid "chat_ni_permission_denied"
+msgstr "Неуспешно изпращане на съобщение"
+
+msgid "messaging_ap_conversations"
+msgstr "Разговори"
+
+msgid "messaging_bd_chat"
+msgstr "Продължи"
+
+msgid "messaging_bd_join"
+msgstr "Включи се"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Ново съобщение"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Нов SMS"
+
+msgid "messaging_bd_send"
+msgstr "Изпрати"
+
+msgid "messaging_csm_kick_out"
+msgstr "Изхвърли"
+
+msgid "messaging_fi_address"
+msgstr "До"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Не може да бъде гарантирано доставянето на съобщението. Да се използва ли друг канал?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Аватарът е обновен и показан в новите съобщения"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "НЕ Е НА ЛИНИЯ"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Не са открити стаи за разговори"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(не сте включен в нито една стая)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Име"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Интернет съобщенията не се поддържат."
+
+msgid "messaging_fi_clear_message"
+msgstr "Изчистване на съобщението"
+
+msgid "messaging_fi_copy"
+msgstr "Копиране"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Запазване на ел. визитка"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Изтриване на съобщението?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Изтриване на всички съобщения в този разговор?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Изтриване на избрания разговор?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Изтриване на избраните разговори?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Изтриване на всички съобщения в този разговор?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Неуспешна доставка"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Предстоящи"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Потвърждение при изпратен SMS "
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Изпратен"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr "Изключен.\nНевъзможно продължаване с интернет разговорите."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Стаята за разговори е скрита"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Стаята за разговори е само с покани"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Стаята за разговори вече е публична"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Стаята за разговори модерирана"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Създадена е нова стая"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Стаята за разговори вече не е модерирана"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s беше изритан"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s и %s в стаята за разговори"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Защитата с парола е премахната"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Вие сте изгонен."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Вие бяхте изритан"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Стаята за разговори е видима"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Пример +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Препращане"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr "Неуспешно изпращане на SMS. Невалиден номер на център за съобщения. Задаване на номера?"
+
+msgid "messaging_fi_invisible"
+msgstr "Невидим(а):"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Само с покана:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Ел. визитка"
+
+msgid "messaging_fi_main_csm"
+msgstr "Отваряне на ел. визитка"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Няма разговори"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Съобщенията не са изпратени. Недостатъчни права."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr "Неуспешно изпращане на SMS. Липсващ номер на център за съобщения. Задаване на номера?"
+
+msgid "messaging_fi_moderated"
+msgstr "Модериран:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Регистрации"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "До"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Забранено изпращане на SMS до този номер. Активиран е FDN."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d участници"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Няма участници"
+
+msgid "messaging_fi_password"
+msgstr "Парола:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Защита с парола:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s се включи"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "%s напусна"
+
+msgid "messaging_fi_resend"
+msgstr "Повторно изпращане"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Повторно изпращане на SMS при превключване на линия"
+
+msgid "messaging_fi_room_address"
+msgstr "Адрес: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Име:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Тема:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "неуспешно изпращане на SMS за %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "изпратен SMS до %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s не е във Вашите контакти"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Писане на съобщение"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Добавяне на получател"
+
+msgid "messaging_fi_smsc"
+msgstr "номер на SMS център"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Невалиден номер"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Добави номер"
+
+msgid "messaging_fi_use_account"
+msgstr "Използване на регистрация"
+
+msgid "messaging_fi_you"
+msgstr "Вие"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Покани"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Участници"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Настройки на стаята"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Запазване на разговора"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Изритване на участници"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Излизане"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Премахване"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Изпрати ИМ до"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Изтриване на разговорите"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Включване към чат стая"
+
+msgid "messaging_me_main_settings"
+msgstr "Настройки"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Изчистване на разговора"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "ИМ – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "IM тема"
+
+msgid "messaging_ti_chat_with"
+msgstr "Изпращане на ИМ"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Покана за чат стая"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr "Вие бяхте поканен в чат стая %s от %s.\nПрисъединяване към тази стая?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr "Вие бяхте поканен в чат стая %s.\nПрисъединяване към тази стая?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s участници"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Стаи за разговор – резултати от търсенето"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Стая за разговор – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Стаи за разговор – последни"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Контактът не е на линия"
+
+msgid "messaging_ti_flash_sms"
+msgstr "SMS - %s (%s):\n%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Участници"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Тема"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Избор на разговори"
+
+msgid "messaging_ti_new_mms"
+msgstr "Нов MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Невъзможно получаване или изпращане на нови съобщения."
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "SMS – изпратен"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Изпратен от мен"
+
+msgid "messaging_ti_room_settings"
+msgstr "Настройки на стая"
+
+msgid "messaging_ti_search"
+msgstr "Търсене"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Избор на стаи за разговор"
+
+msgid "messaging_ti_settings"
+msgstr "Настройки"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "тема с усмивки"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Вашият телефонен номер"
+
+msgid "messaging_va_smsc"
+msgstr "Използване от SIM карта"
+
+msgid "messaging_va_user_defined"
+msgstr "Дефинирано от потребител"
