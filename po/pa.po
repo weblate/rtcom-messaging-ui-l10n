@@ -1,0 +1,414 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2010-11-30 11:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਭਰਿਆ ਹੋਇਆ ਹੈ"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "ਸੰਪਰਕ ਆਫਲਾਈਨ ਹੈ"
+
+msgid "chat_ia_event_message_sent"
+msgstr "%s ਉੱਤੇ ਭੇਜੋ"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "%s ਵਲੋਂ ਸੁਨੇਹਾ ਬਹੁਤ ਵੱਡਾ ਹੈ ਅਤੇ ਛੋਟੀ ਕੀਤਾ ਗਿਆ ਹੈ"
+
+msgid "chat_ia_event_password_room"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਹੁਣ ਪਾਸਵਰਡ ਨਾਲ ਸੁਰੱਖਿਅਤ ਹੈ"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "ਰੂਮ ਵੇਰਵੇ ਨੂੰ ਬਦਲਿਆ ਗਿਆ ਹੈ: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "ਰੂਮ ਨਾਂ ਨੂੰ ਬਦਲਿਆ ਗਿਆ ਹੈ: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "%s ਨੇ ਰੂਮ ਵਿਸ਼ਾ ਬਦਲਿਆ ਹੈ: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "ਸੁਨੇਹਾ ਭੇਜਣ ਲਈ ਅਸਮਰੱਥ। ਸੰਪਰਕ ਆਫਲਾਈਨ ਹੈ।"
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "%s ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "%s ਨੇ %s ਉੱਤੇ ਪਾਬੰਦੀ ਲਈ"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr "ਜਾਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਗੱਲਬਾਤ ਰੂਮ ਤੋਂ ਪਾਬੰਦੀ ਹੈ।"
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr "ਜਾਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਗੱਲਬਾਤ ਰੂਮ ਕੇਵਲ ਸੱਦੇ ਉੱਤੇ ਹੀ ਹੈ।"
+
+msgid "chat_ib_room_creation_failed"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਬਣਾਉਣ ਲਈ ਫੇਲ੍ਹ ਹੈ"
+
+msgid "chat_ib_room_not_found"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਨਹੀਂ ਲੱਭਿਆ"
+
+msgid "chat_ni_permission_denied"
+msgstr "ਸੁਨੇਹਾ ਭੇਜਣ ਲਈ ਫੇਲ੍ਹ"
+
+msgid "messaging_ap_conversations"
+msgstr "ਗੱਲਾਬਾਤਾਂ"
+
+msgid "messaging_bd_chat"
+msgstr "ਜਾਰੀ ਰੱਖੋ"
+
+msgid "messaging_bd_join"
+msgstr "ਜੁਆਇੰਨ"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "ਨਵਾਂ IM"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "ਨਵਾਂ SMS"
+
+msgid "messaging_bd_send"
+msgstr "ਭੇਜੋ"
+
+msgid "messaging_csm_kick_out"
+msgstr "ਕਿੱਕ ਕਰੋ"
+
+msgid "messaging_fi_address"
+msgstr "ਵੱਲ"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Unable to guarantee that message will be delivered. Use another channel?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Avatar image updated and shown in new messages"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "OFFLINE"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "ਕੋਈ ਗੱਲਬਾਤ ਰੂਮ ਨਹੀਂ ਲੱਭਿਆ"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(no chat rooms joined yet)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "ਰੂਮ:"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "ਗੱਲਾਬਾਤ ਕਰਨ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+msgid "messaging_fi_clear_message"
+msgstr "ਸੁਨੇਹਾ ਸਾਫ਼ ਕਰੋ"
+
+msgid "messaging_fi_copy"
+msgstr "ਕਾਪੀ ਕਰੋ"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "ਸੰਪਰਕ ਕਾਰਡ ਸੰਭਾਲੋ"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "ਸੁਨੇਹਾ ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "ਇਹ ਗੱਲਬਾਤ ਵਿੱਚ ਸਭ ਸੁਨੇਹੇ ਸਾਫ਼ ਕਰਨੇ ਹਨ?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "ਚੁਣੀ ਗੱਲਬਾਤ ਹਟਾਉਣੀ ਹੈ?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "ਚੁਣੀ ਗੱਲਬਾਤ ਹਟਾਉਣੀ ਹੈ?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "ਇਹ ਗੱਲਬਾਤ ਵਿੱਚੋਂ ਸਭ ਸੁਨੇਹੇ ਸਾਫ਼ ਕਰਨੇ ਹਨ?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "ਡਿਲਵਰੀ ਫੇਲ੍ਹ ਹੋਈ"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "ਬਾਕੀ ਹੈ"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Receive text message delivery reports"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "ਡਿਲਵਰ ਕੀਤੇ"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr "ਡਿਸ-ਕੁਨੈਕਟ ਹੈ।\nਗੱਲਬਾਤ ਜਾਰੀ ਰੱਖਣ ਲਈ ਅਸਮਰੱਥ।"
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਹੁਣ ਅਦਿੱਖ ਹੈ।"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Chat room is now invitation only"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਹੁਣ ਪਬਲਿਕ ਹੈ"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Chat room is now moderated"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "ਨਵਾਂ ਰੂਮ ਬਣਾਇਆ ਗਿਆ"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Chat room isn't moderated now"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "%s ਨੂੰ ਕਿੱਕ ਕੀਤਾ ਗਿਆ ਹੈ"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "%s, %s ਅਤੇ %s ਗੱਲਬਾਤ ਰੂਮ ਵਿੱਚ ਹਨ"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Password protection is disabled now"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "You are banned."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "ਤੁਹਾਨੂੰ ਕਿੱਕ ਕੀਤਾ ਗਿਆ ਹੈ।"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਹੁਣ ਦਿੱਖ ਹੈ"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "ਜਿਵੇਂ +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "ਅੱਗੇ"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr "ਟੈਕਸਟ ਸੁਨੇਹਾ ਭੇਜਣ ਲਈ ਫੇਲ੍ਹ ਹੈ। ਅਢੁੱਕਵਾਂ ਸੁਨੇਹਾ ਸੈਂਟਰ ਨੰਬਰ ਹੈ। ਨੰਬਰ ਸੈੱਟ ਕਰਨਾ ਹੈ?"
+
+msgid "messaging_fi_invisible"
+msgstr "ਓਹਲੇ:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "ਕੇਵਲ ਸੱਦੇ ਲਈ:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "ਸੰਪਰਕ ਕਾਰਡ"
+
+msgid "messaging_fi_main_csm"
+msgstr "ਸੰਪਰਕ ਕਾਰਡ ਖੋਲ੍ਹੋ"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "ਕੋਈ ਗੱਲਬਾਤ ਨਹੀਂ"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "ਸੁਨੇਹਾ ਨਹੀਂ ਭੇਜਿਆ। ਅਧਿਕਾਰ ਪਾਬੰਦੀ ਹੈ।"
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr "Text message sending failed. Message center number missing. Set number?"
+
+msgid "messaging_fi_moderated"
+msgstr "Moderated:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "ਅਕਾਊਂਟ"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "ਵੱਲ"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Sending SMS not allowed to this number. FDN active."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d ਅੱਖਰ"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "No participants"
+
+msgid "messaging_fi_password"
+msgstr "ਪਾਸਵਰਡ:"
+
+msgid "messaging_fi_password_protected"
+msgstr "ਪਾਸਵਰਡ ਨਾਲ ਸੁਰੱਖਿਅਤ:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "%s ਜੁਆਇੰਨ ਹੋਇਆ"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "X ਨੇ ਛੱਡਿਆ"
+
+msgid "messaging_fi_resend"
+msgstr "ਮੁੜ-ਭੇਜੋ"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "ਜਦੋਂ ਆਨਲਾਈਨ ਮੋਡ ਵਿੱਚ ਹੋਇਆ ਤਾਂ SMS ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ।"
+
+msgid "messaging_fi_room_address"
+msgstr "ਐਡਰੈੱਸ: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "ਨਾਂ:"
+
+msgid "messaging_fi_room_topic"
+msgstr "ਵਿਸ਼ਾ:"
+
+msgid "messaging_fi_sms"
+msgstr "SMS"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "%s ਲਈ ਟੈਕਸਟ ਸੁਨੇਹਾ ਡਿਲਵਰੀ ਫੇਲ੍ਹ ਹੋਈ"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "%s ਨੂੰ ਟੈਕਸਟ ਸੁਨੇਹਾ ਡਿਲਵਰ ਕੀਤਾ"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "%s ਤੁਹਾਡੇ ਸੰਪਰਕ ਵਿੱਚ ਨਹੀਂ ਹੈ।"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "ਸੁਨੇਹਾ ਲਿਖੋ"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "ਪ੍ਰਾਪਤ ਕਰਤਾ ਸ਼ਾਮਲ"
+
+msgid "messaging_fi_smsc"
+msgstr "SMS ਸੈਂਟਰ ਨੰਬਰ"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "ਅਢੁੱਕਵਾਂ ਨੰਬਰ"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "ਨੰਬਰ ਸ਼ਾਮਲ"
+
+msgid "messaging_fi_use_account"
+msgstr "ਅਕਾਊਂਟ ਵਰਤੋਂ"
+
+msgid "messaging_fi_you"
+msgstr "ਤੁਸੀਂ"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "ਸੱਦਾ"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Participants"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "ਰੂਮ ਸੈਟਿੰਗ"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "ਗੱਲਬਾਤ ਸੰਭਾਲੋ"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Kick participants"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "ਛੱਡੋ"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "ਹਟਾਓ"
+
+msgid "messaging_me_main_chat_with"
+msgstr "IM ਭੇਜੋ"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "ਗੱਲਬਾਤ ਹਟਾਓDelete conversations"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Join chat room"
+
+msgid "messaging_me_main_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "ਗੱਲਬਾਤ ਸਾਫ਼ ਕਰੋ"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "IM – %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "IM theme"
+
+msgid "messaging_ti_chat_with"
+msgstr "IM ਭੇਜੋ"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Chat room invitation"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr "You have been invited to chat room %s by %s.\nJoin this room?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr "You have been invited to chat room %s.\nJoin this room?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s participants"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ - ਖੋਜ ਨਤੀਜੇ"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ – %s"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ - ਤਾਜ਼ਾ"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "ਸੰਪਰਕ ਆਫਲਾਈਨ"
+
+msgid "messaging_ti_flash_sms"
+msgstr "ਟੈਕਸਟ ਸੁਨੇਹਾ - %s (%s):\n%s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Participants"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "ਵਿਸ਼ਾ"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "ਗੱਲਬਾਤ ਚੁਣੋ"
+
+msgid "messaging_ti_new_mms"
+msgstr "New MMS"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "ਨਵੇਂ ਸੁਨੇਹੇ ਲੈਣ ਜਾਂ ਭੇਜਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।"
+
+msgid "messaging_ti_one_sms"
+msgstr "SMS: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "ਟੈਕਸਟ ਸੁਨੇਹਾ–ਭੇਜਿਆ"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "ਮੇਰੇ ਵਲੋਂ ਭੇਜੇ"
+
+msgid "messaging_ti_room_settings"
+msgstr "ਰੂਮ ਸੈਟਿੰਗ"
+
+msgid "messaging_ti_search"
+msgstr "ਖੋਜ"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "ਗੱਲਬਾਤ ਰੂਮ ਚੁਣੋ"
+
+msgid "messaging_ti_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Smileys theme"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "SMS – %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Your phone number"
+
+msgid "messaging_va_smsc"
+msgstr "SIM ਕਾਰਡ ਤੋਂ ਵਰਤੋਂ"
+
+msgid "messaging_va_user_defined"
+msgstr "ਯੂਜ਼ਰ ਵਲੋਂ ਦੱਸੇ"
