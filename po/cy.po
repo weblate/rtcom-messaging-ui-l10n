@@ -1,0 +1,415 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2012-02-07 13:50+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "chat_ia_event_chat_room_is_full"
+msgstr "Ystafell sgwrs yn llawn"
+
+msgid "chat_ia_event_message_chatting_with_offline_contact"
+msgstr "Cyswllt all-lein"
+
+msgid "chat_ia_event_message_sent"
+msgstr "Gyrrwyd ar %s"
+
+msgid "chat_ia_event_message_too_big_message"
+msgstr "Mae'r neges gan %s yn rhy hir ac mae wedi ei fyrhau"
+
+msgid "chat_ia_event_password_room"
+msgstr "Ystafell sgwrs bellach dan amddiffyniad cyfrinair"
+
+msgid "chat_ia_event_person_changed_room_description"
+msgstr "Disgrifiad ystafell wedi newid i: %s"
+
+msgid "chat_ia_event_person_changed_room_name"
+msgstr "Enw ystafell wedi newid i: %s"
+
+msgid "chat_ia_event_person_changed_room_topic"
+msgstr "Mae %s wedi newid testun yr ystafell i: %s"
+
+msgid "chat_ia_event_person_offline"
+msgstr "Methu anfon neges. Cyswllt all-lein."
+
+msgid "chat_ia_event_person_was_banned"
+msgstr "Mae %s wedi ei wahardd"
+
+msgid "chat_ia_event_person_was_banned_by"
+msgstr "Mae %s wedi gwahardd %s"
+
+msgid "chat_ib_cant_enter_because_banner"
+msgstr "Methu myned. Gwaharddwyd o'r ystafell sgwrs."
+
+msgid "chat_ib_cant_enter_because_invitation_only"
+msgstr "Methu myned. Angen gwahoddiad i'r ystafell sgwrs yma."
+
+msgid "chat_ib_room_creation_failed"
+msgstr "Methwyd creu ystafell sgwrs"
+
+msgid "chat_ib_room_not_found"
+msgstr "Ni ganfuwyd yr ystafell sgwrs"
+
+msgid "chat_ni_permission_denied"
+msgstr "Methwyd gyrru neges"
+
+msgid "messaging_ap_conversations"
+msgstr "Sgyrsiau"
+
+msgid "messaging_bd_chat"
+msgstr "Parhau"
+
+msgid "messaging_bd_join"
+msgstr "Ymuno"
+
+msgid "messaging_bd_main_new_chat"
+msgstr "Neges sgwrs newydd"
+
+msgid "messaging_bd_main_new_sms"
+msgstr "Neges destun newydd"
+
+msgid "messaging_bd_send"
+msgstr "Anfon"
+
+msgid "messaging_csm_kick_out"
+msgstr "Cicio allan"
+
+msgid "messaging_fi_address"
+msgstr "I"
+
+msgid "messaging_fi_changing_channel"
+msgstr "Methu gwarantu y caiff y neges ei yrru. Defnyddio sianel arall?"
+
+msgid "messaging_fi_chat_avatar_changed"
+msgstr "Diweddarwyd y llun afatar a fe'i dangosir mewn negeseuon newydd"
+
+msgid "messaging_fi_chat_conversation_offline_msg"
+msgstr "ALL-LEIN"
+
+msgid "messaging_fi_chatroom_search_result_empty_list"
+msgstr "Ni ganfuwyd ystafelloedd sgwrs"
+
+msgid "messaging_fi_chatrooms_latest_empty_list"
+msgstr "(heb ymuno ag ystafell sgwrs eto)"
+
+msgid "messaging_fi_chatrooms_latest_room"
+msgstr "Ystafell:"
+
+msgid "messaging_fi_chatting_not_supported"
+msgstr "Ni gynhelir sgwrsio."
+
+msgid "messaging_fi_clear_message"
+msgstr "Clirio neges"
+
+msgid "messaging_fi_copy"
+msgstr "Copïo"
+
+msgid "messaging_fi_csm_save_business_card"
+msgstr "Cadw cerdyn cyswllt"
+
+msgid "messaging_fi_delete_1_sms"
+msgstr "Dileu neges?"
+
+msgid "messaging_fi_delete_chat_messages_in_conversation"
+msgstr "Clirio pob neges yn y sgwrs yma?"
+
+msgid "messaging_fi_delete_selected_conversation"
+msgstr "Dileu'r sgwrs a ddewiswyd?"
+
+msgid "messaging_fi_delete_selected_conversations"
+msgstr "Dileu'r sgyrsiau a ddewiswyd?"
+
+msgid "messaging_fi_delete_sms_in_conversation"
+msgstr "Clirio pob neges yn y sgwrs yma?"
+
+msgid "messaging_fi_delivery_failed"
+msgstr "Methu anfon"
+
+msgid "messaging_fi_delivery_on_the_way"
+msgstr "Yn aros"
+
+msgid "messaging_fi_delivery_reports"
+msgstr "Derbyn adroddiadau gyrru neges destun"
+
+msgid "messaging_fi_delivery_successful"
+msgstr "Danfonwyd"
+
+msgid "messaging_fi_disconnected_unable_to_continue_chat"
+msgstr "Wedi datgysylltu. Methu parhau i sgwrsio."
+
+msgid "messaging_fi_event_msg_invisible"
+msgstr "Ystafell sgwrs bellach yn anweledig"
+
+msgid "messaging_fi_event_msg_invitation_only"
+msgstr "Ystafell sgwrs bellach yn wahoddiad-yn-unig"
+
+msgid "messaging_fi_event_msg_invitation_only_not"
+msgstr "Ystafell sgwrs bellach yn gyhoeddus"
+
+msgid "messaging_fi_event_msg_moderated"
+msgstr "Ystafell sgwrs bellach wedi ei gymedroli"
+
+msgid "messaging_fi_event_msg_new_room_created"
+msgstr "Crëwyd ystafell newydd"
+
+msgid "messaging_fi_event_msg_not_moderated"
+msgstr "Ni gymedrolir yr ystafell sgwrs bellach"
+
+msgid "messaging_fi_event_msg_participant_kicked_out"
+msgstr "Mae %s wedi ei gicio allan"
+
+msgid "messaging_fi_event_msg_participants"
+msgstr "Mae %s, %s a %s yn yr ystafell sgwrs"
+
+msgid "messaging_fi_event_msg_password_disabled"
+msgstr "Analluogwyd amddiffyniad cyfrinair"
+
+msgid "messaging_fi_event_msg_user_banned"
+msgstr "Rydych wedi eich gwahardd."
+
+msgid "messaging_fi_event_msg_user_kicked_out"
+msgstr "Rydych wedi eich cicio allan"
+
+msgid "messaging_fi_event_msg_visible"
+msgstr "Ystafell sgwrs bellach yn weledol"
+
+msgid "messaging_fi_example_phone_number"
+msgstr "Esiampl +35840123456"
+
+msgid "messaging_fi_forward"
+msgstr "Blaenyrru"
+
+msgid "messaging_fi_invalid_smsc_number"
+msgstr "Methu gyrru neges testun. Rhif canolfan negeseuo annilys. Gosod rhif?"
+
+msgid "messaging_fi_invisible"
+msgstr "Anweledig:"
+
+msgid "messaging_fi_invitation_only"
+msgstr "Gwahoddiad yn unig:"
+
+msgid "messaging_fi_link_business_card"
+msgstr "Cerdyn cyswllt"
+
+msgid "messaging_fi_main_csm"
+msgstr "Agor cerdyn cyswllt"
+
+msgid "messaging_fi_main_empty_list_no_conversations"
+msgstr "Dim sgyrsiau"
+
+msgid "messaging_fi_messages_not_sent_permission_denied"
+msgstr "Ni anfonwyd negeseuon. Dim caniatâd."
+
+msgid "messaging_fi_missing_smsc_number"
+msgstr "Methu gyrru neges testun. Rhif canolfan negeseuo ar goll. Gosod rhif?"
+
+msgid "messaging_fi_moderated"
+msgstr "Cymedrolwyd:"
+
+msgid "messaging_fi_my_chat_accounts"
+msgstr "Cyfrifon"
+
+msgid "messaging_fi_new_sms_to"
+msgstr "I"
+
+msgid "messaging_fi_number_not_in_fdn_list_error"
+msgstr "Methu gyrru neges destun i'r rhif yma. Cyfyngu rhifau deialu (FDN) mewn gweithred."
+
+msgid "messaging_fi_number_of_chatters"
+msgstr "%d sgwrsiwr"
+
+msgid "messaging_fi_participants_empty_list"
+msgstr "Dim aelodau"
+
+msgid "messaging_fi_password"
+msgstr "Cyfrinair:"
+
+msgid "messaging_fi_password_protected"
+msgstr "Amddiffynnir â chyfrinair:"
+
+msgid "messaging_fi_person_has_joined_room"
+msgstr "Mae %s wedi ymuno"
+
+msgid "messaging_fi_person_has_left_room"
+msgstr "Mae X wedi gadael"
+
+msgid "messaging_fi_resend"
+msgstr "Ail-anfon"
+
+msgid "messaging_fi_resending_sms_when_device_in_online_mode"
+msgstr "Ail-anfon negeseuon destun fan mewn modd ar-lein"
+
+msgid "messaging_fi_room_address"
+msgstr "Cyfeiriad: %s"
+
+msgid "messaging_fi_room_name"
+msgstr "Enw:"
+
+msgid "messaging_fi_room_topic"
+msgstr "Testun:"
+
+msgid "messaging_fi_sms"
+msgstr "Neges destun"
+
+msgid "messaging_fi_sms_delivery_failed"
+msgstr "Methodd gyrru neges destun ar gyfer %s"
+
+msgid "messaging_fi_sms_delivery_success"
+msgstr "Gyrrwyd neges destun at %s"
+
+msgid "messaging_fi_sms_invalid_contact"
+msgstr "Nid yw %s ymysg eich cysylltiadau"
+
+msgid "messaging_fi_sms_no_message"
+msgstr "Ysgrifennu neges"
+
+msgid "messaging_fi_sms_no_recipient"
+msgstr "Ychwanegu derbyniwr"
+
+msgid "messaging_fi_smsc"
+msgstr "Rhif canolfan negeseuo"
+
+msgid "messaging_fi_smsc_invalid_chars"
+msgstr "Rhif annilys"
+
+msgid "messaging_fi_smsc_no_number"
+msgstr "Ychwanegu rhif"
+
+msgid "messaging_fi_use_account"
+msgstr "Defnyddio cyfrif"
+
+msgid "messaging_fi_you"
+msgstr "Chi"
+
+msgid "messaging_me_chatroom_conversation_invite"
+msgstr "Gwahodd"
+
+msgid "messaging_me_chatroom_conversation_participants"
+msgstr "Aelodau"
+
+msgid "messaging_me_chatroom_conversation_room_settings"
+msgstr "Gosodiadau ystafell"
+
+msgid "messaging_me_chatroom_conversation_save_conversation"
+msgstr "Cadw sgwrs"
+
+msgid "messaging_me_chatroom_participants_kick_participants"
+msgstr "Cicio aelodau"
+
+msgid "messaging_me_chatrooms_latest_leave"
+msgstr "Gadael"
+
+msgid "messaging_me_chatrooms_latest_remove"
+msgstr "Gwaredu"
+
+msgid "messaging_me_main_chat_with"
+msgstr "Gyrru neges sgwrs"
+
+msgid "messaging_me_main_delete_conversations"
+msgstr "Dileu sgyrsiau"
+
+msgid "messaging_me_main_join_chatroom"
+msgstr "Ymuno ag ystafell sgwrs"
+
+msgid "messaging_me_main_settings"
+msgstr "Gosodiadau"
+
+msgid "messaging_me_sms_conversation_clear"
+msgstr "Clirio sgwrs"
+
+msgid "messaging_ti_chat_conversation"
+msgstr "Neges sgwrs - %s"
+
+msgid "messaging_ti_chat_conversation_theme"
+msgstr "Thema neges sgwrs"
+
+msgid "messaging_ti_chat_with"
+msgstr "Gyrru neges sgwrs"
+
+msgid "messaging_ti_chatroom_invitation"
+msgstr "Gwahoddiad ystafell sgwrs"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_known"
+msgstr "Rydych wedi eich gwahodd i'r ystafell %s gan %s. Ymuno a'r ystafell?"
+
+msgid "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgstr "Rydych wedi eich gwahodd i'r ystafell %s. Ymuno a'r ystafell?"
+
+msgid "messaging_ti_chatroom_participants"
+msgstr "%s aelod"
+
+msgid "messaging_ti_chatroom_search_results"
+msgstr "Ystafelloedd sgwrs - canlyniadau chwilio"
+
+msgid "messaging_ti_chatroom_view"
+msgstr "Ystafell sgwrs - %"
+
+msgid "messaging_ti_chatrooms_latest"
+msgstr "Ystafelloedd sgwrs - diweddaraf"
+
+msgid "messaging_ti_contact_is_offline"
+msgstr "Cyswllt all-lein"
+
+msgid "messaging_ti_flash_sms"
+msgstr "Neges destun - %s (%s): %s"
+
+msgid "messaging_ti_group_chat_participants"
+msgstr "Aelodau"
+
+msgid "messaging_ti_group_chat_topic"
+msgstr "Testun"
+
+msgid "messaging_ti_main_select_conversations"
+msgstr "Dewis sgyrsiau"
+
+msgid "messaging_ti_new_mms"
+msgstr "MMS newydd"
+
+msgid "messaging_ti_no_storage_space"
+msgstr "Methu derbyn nag anfon negeseuon newydd"
+
+msgid "messaging_ti_one_sms"
+msgstr "Neges destun: %s"
+
+msgid "messaging_ti_one_sms_me"
+msgstr "Neges destun - gyrrwyd"
+
+msgid "messaging_ti_one_sms_sent_by_me"
+msgstr "Gyrrwyd gennyf i"
+
+msgid "messaging_ti_room_settings"
+msgstr "Gosodiadau ystafell"
+
+msgid "messaging_ti_search"
+msgstr "Chwilio"
+
+msgid "messaging_ti_select_chatrooms"
+msgstr "Dewis ystafelloedd sgwrs"
+
+msgid "messaging_ti_settings"
+msgstr "Gosodiadau"
+
+msgid "messaging_ti_smileys_theme"
+msgstr "Thema gwenogluniau"
+
+msgid "messaging_ti_sms_conversation"
+msgstr "Neges destun - %s"
+
+msgid "messaging_ti_your_phonenumber"
+msgstr "Eich rhif ffôn"
+
+msgid "messaging_va_smsc"
+msgstr "Defnyddio o'r cerdyn SIM"
+
+msgid "messaging_va_user_defined"
+msgstr "Diffinnir gan y defnyddiwr"
